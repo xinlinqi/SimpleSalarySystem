@@ -1,0 +1,4 @@
+SimpleSalarySystem
+==================
+
+Just An Exercise!
